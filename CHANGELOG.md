@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-28)
+## Unreleased (2026-05-31)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`7719ac8`](https://github.com/stdlib-js/stdlib/commit/7719ac8d2f7584c23d167ec3a3b9a7ad1fbba992) - **docs:** fix missing function description _(by Athan Reines)_
 -   [`eb60bb4`](https://github.com/stdlib-js/stdlib/commit/eb60bb44085cccb6d90484c453f6bcd2495421ea) - **feat:** add `blas/ext/base/dcartesian-product` [(#10799)](https://github.com/stdlib-js/stdlib/pull/10799) _(by Muhammad Haris, Athan Reines)_
 
 </details>
