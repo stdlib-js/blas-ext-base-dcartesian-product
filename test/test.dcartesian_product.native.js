@@ -28,7 +28,7 @@ var tryRequire = require( '@stdlib/utils-try-require' );
 
 // VARIABLES //
 
-var dcartesianProduct = tryRequire( resolve( __dirname, './../lib/dcartesianproduct.native.js' ) );
+var dcartesianProduct = tryRequire( resolve( __dirname, './../lib/dcartesian_product.native.js' ) );
 var opts = {
 	'skip': ( dcartesianProduct instanceof Error )
 };
